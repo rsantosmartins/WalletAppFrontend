@@ -5,7 +5,7 @@
 Este é um painel de gerenciamento financeiro feito com JavaScript, HTML e CSS. O objetivo principal é o usuário adicionar e deletar lançamentos financeiros (que são poupadores na api), e informar o saldo do mês.
 
 ## Live Link
-https://rsantosmartins.github.io/wallet-app-frontend/
+https://rsantosmartins.github.io/WalletAppFrontend/
 
 ## Tecnologias usadas 
  
